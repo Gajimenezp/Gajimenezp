@@ -1,4 +1,11 @@
-## Hi there 👋
+
+<h1 align="center"> Welcome to my GitHub! <br /> I'm Gabriel Jiménez</h1>
+
+## I'm a Informatics Engineer 
+- 👨‍🏫I enjoy learning about everything related to software developer
+- 🌱I'm currently looking for a job
+- ⚡I always open to learn new technologies related to my career.
+- 🏆Goal: Always learn and make new things!
 
 <!--
 **Gajimenezp/Gajimenezp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
